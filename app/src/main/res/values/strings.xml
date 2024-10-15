@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">valleyCollegeMidterm1</string>
+    <string name="hello_sbvc">Hello SBVC!</string>
+    <string name="failed_to_resolveactivity_for_email">Failed to resolveActivity for Email</string>
+    <string name="failed_to_resolve_activity_for_webpage">failed to resolve activity for webpage</string>
+    <string name="san_bernardino_college_banner">San Bernardino College Banner</string>
+    <string name="eric_platt">Eric Platt</string>
+    <string name="the_college_wolverine_mascot">The college wolverine mascot</string>
+    <string name="valleycollegemidterm1">ValleyCollegeMidterm1</string>
+    <string name="a_scenic_view_of_the_campus">A scenic view of the campus</string>
+</resources>
