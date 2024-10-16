@@ -67,6 +67,12 @@
                 android:layout_height="wrap_content"
                 android:text="View Homepage"
                 />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/sbvc_logo_2022_darker_275"
+                android:contentDescription="@string/san_bernardino_college_banner"
+                />
         </LinearLayout>
     </ScrollView>
 
