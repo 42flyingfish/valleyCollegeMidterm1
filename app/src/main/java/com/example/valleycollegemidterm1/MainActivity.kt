@@ -46,11 +46,6 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(Intent.ACTION_VIEW).apply {
                 data = Uri.parse("https://www.valleycollege.edu")
             }
-            if (intent.resolveActivity(packageManager) != null) {
-                startActivity(intent)
-            } else {
-                println(getString(R.string.failed_to_resolve_activity_for_webpage))
-            }
             startActivity(intent)
         }
     }
